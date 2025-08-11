@@ -50,11 +50,17 @@ This project proposes the development of an **AI-powered nutrition coach** that 
 ## **4. Research Hypotheses**
 
 **H1:** AI-generated meal plans tailored to individual health conditions and goals will achieve higher nutritional adequacy than generic meal plans.
+
 **H2:** Speech-to-text food logging will achieve ≥90% accuracy compared to manual entry.
+
 **H3:** AI-driven recommendations will improve macro-nutrient balance and reduce micronutrient deficiencies within 8 weeks.
+
 **H4:** Cultural customization will increase dietary adherence rates by at least 20%.
+
 **H5:** API data standardization will reduce nutrient reporting discrepancies to less than ±5%.
+
 **H6:** Personalized meal timing will improve self-reported energy and recovery scores.
+
 **H7:** Continuous nutrient feedback will result in measurable improvements in BMI, cholesterol, and blood sugar over 12 weeks.
 
 ---
