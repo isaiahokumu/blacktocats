@@ -1,7 +1,3 @@
-Here’s your **full AI-Powered Nutrition Coach Project Proposal** — structured, detailed, and ready for submission.
-
----
-
 # **AI-Powered Nutrition Coach**
 
 **Project Proposal**
