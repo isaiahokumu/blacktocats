@@ -19,13 +19,13 @@ This project proposes the development of an **AI-powered nutrition coach** that 
 
 ## **2. Research Questions**
 
-1. How can AI algorithms integrate health profiles, fitness goals, and dietary preferences to generate nutritionally balanced and medically appropriate meal plans?
-2. What is the accuracy and usability of speech-to-text food logging compared to manual entry, and how can it be optimized to correctly interpret portion sizes and mixed meals?
-3. To what extent can AI recommendations improve macro-nutrient balance (carbs, protein, fats) and correct micronutrient deficiencies over time?
-4. How does customizing recipes to match cultural and regional food preferences affect adherence to healthy eating plans?
-5. How can data from multiple nutrition sources (Edamam, USDA) be standardized to ensure consistent nutrient analysis?
-6. What impact does personalized meal timing have on user performance, recovery, and weight management?
-7. How effective is real-time nutrient feedback in promoting sustainable healthy eating behaviors and improving biomarkers such as BMI, cholesterol, and blood sugar?
+- 1. How can AI algorithms integrate health profiles, fitness goals, and dietary preferences to generate nutritionally balanced and medically appropriate meal plans?
+- 2. What is the accuracy and usability of speech-to-text food logging compared to manual entry, and how can it be optimized to interpret portion sizes and mixed meals correctly?
+- 3. To what extent can AI recommendations improve macro-nutrient balance (carbs, protein, fats) and correct micronutrient deficiencies over time?
+- 4. How does customizing recipes to match cultural and regional food preferences affect adherence to healthy eating plans?
+- 5. How can data from multiple nutrition sources (Edamam, USDA) be standardized to ensure consistent nutrient analysis?
+- 6. What impact does personalized meal timing have on user performance, recovery, and weight management?
+- 7. How effective is real-time nutrient feedback in promoting sustainable healthy eating behaviors and improving biomarkers such as BMI, cholesterol, and blood sugar?
 
 ---
 
